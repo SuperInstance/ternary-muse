@@ -1,0 +1,6 @@
+[package]
+name = "ternary-muse"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Creative generation and artistic exploration with ternary systems"
